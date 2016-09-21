@@ -1,0 +1,8 @@
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\HelloWorld\Lab3\Lab6-PigLatinTranslator\TranslatorTest\bin\Debug\TranslatorTest.dll
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\HelloWorld\Lab3\Lab6-PigLatinTranslator\TranslatorTest\bin\Debug\TranslatorTest.pdb
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\HelloWorld\Lab3\Lab6-PigLatinTranslator\TranslatorTest\bin\Debug\Lab6-PigLatinTranslator.exe
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\HelloWorld\Lab3\Lab6-PigLatinTranslator\TranslatorTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\HelloWorld\Lab3\Lab6-PigLatinTranslator\TranslatorTest\bin\Debug\Lab6-PigLatinTranslator.pdb
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\HelloWorld\Lab3\Lab6-PigLatinTranslator\TranslatorTest\obj\Debug\PigLationTranslatorTest.csprojResolveAssemblyReference.cache
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\HelloWorld\Lab3\Lab6-PigLatinTranslator\TranslatorTest\obj\Debug\TranslatorTest.dll
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\HelloWorld\Lab3\Lab6-PigLatinTranslator\TranslatorTest\obj\Debug\TranslatorTest.pdb
